@@ -1,0 +1,14 @@
+Source: wicotorenuei
+Section: unknown
+Priority: extra
+Maintainer: Manfred Lichtenstern <manfred@mail.fragerix.info>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: wicotorenuei
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: WIth COlo TO REceive NUr EInmal
+ The "with-colo-to-receive-nur-einmal"-filter.
+ .
+ For use with gpg --list-sigs --with-colo | wicotorenuei | bash

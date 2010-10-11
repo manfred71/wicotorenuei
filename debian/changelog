@@ -1,0 +1,12 @@
+wicotorenuei (20081128-2) unstable; urgency=low
+
+  * change keyserver from keyserver.noreply.org to pgp.surfnet.nl
+
+ -- Manfred Lichtenstern <manfred@mail.fragerix.info>  Fri, 28 Nov 2008 14:24:23 +0100
+
+wicotorenuei (20081128-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Manfred Lichtenstern <manfred@mail.fragerix.info>  Fri, 28 Nov 2008 11:35:24 +0100
+

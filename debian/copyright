@@ -1,0 +1,22 @@
+This package was debianized by Manfred Lichtenstern <manfred@mail.fragerix.info> on
+Fri, 28 Nov 2008 11:35:24 +0100.
+
+It was downloaded from <fill in http/ftp site>
+
+Upstream Author: <put author(s) name and email here>
+
+Copyright: <put the year(s) of the copyright, and the names of the
+            copyright holder(s) here>
+
+License:
+
+<Put the license of the package here>
+
+
+The Debian packaging is (C) 2008, Manfred Lichtenstern <manfred@mail.fragerix.info> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
+
+
+# Please also look if there are files or directories which have a
+# different copyright/license attached and list them here.
+
